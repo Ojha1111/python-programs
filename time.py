@@ -1,0 +1,5 @@
+hou=int(input('enter the hours' ))
+minit=int(input('enter the minit'))
+sec=int(input('enter the sec'))
+total_sec=(3600*hou+60*minit+sec)
+print('total sec is',hou,'hours',minit,'minit',sec,'sec \n',total_sec)
