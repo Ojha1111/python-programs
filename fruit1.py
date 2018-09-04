@@ -1,0 +1,15 @@
+import pickle
+f=open("filep.txt","rb");
+a=pickle.load(f)
+print(a)
+a=pickle.load(f)
+print(a)
+a=pickle.load(f)
+print(a)
+a=pickle.load(f)
+print(a)
+a=pickle.load(f)
+print(a)
+a=pickle.load(f)
+print(a)
+f.close()
