@@ -1,3 +1,6 @@
+#to dedsign a graph by using some basic coding
+
+
 n=int(input("enter no. of vertices"));
 graph=[[0]*n]*n;
 type=int(input("enter 1 for eighted or 2 for unweighted graph"));
