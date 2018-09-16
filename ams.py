@@ -1,4 +1,4 @@
-import math
+import.math
 def digits(num):
     n=0
     while(num>0):
