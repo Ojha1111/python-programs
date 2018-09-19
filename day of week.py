@@ -1,3 +1,5 @@
+#printing of days of week
+
 day=int(input('enter a number'))
 if(1<day and day>7):
     print('invalid number')
