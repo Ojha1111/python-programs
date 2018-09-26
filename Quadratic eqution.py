@@ -1,4 +1,4 @@
-import cmath;
+import.math;
 
 a=int(input("enter the number of a"))
 b=int(input("enter the number of b"))
