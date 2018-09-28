@@ -10,7 +10,7 @@ def power(x,y):
 def armstrong(num,p):
     s=0
     while(num>0):
-        rem=num%10
+       rem=num%10
         pr=power(rem,p)
         s=s+pr
         num=num//10
